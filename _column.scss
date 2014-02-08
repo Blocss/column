@@ -1,4 +1,4 @@
-/*! blocss-column v0.0.1 | MIT License | github.com/Blocss */
+/*! blocss-column v1.0.0 | MIT License | github.com/Blocss */
 
 /*----------------------------------------------------------------------------*\
     COLUMN
@@ -67,7 +67,7 @@ $breakpoint-has-columns:            ()                              !default;
 .column--wide {
     @include rem(column-gap, $space*2, webkit moz spec);
 }
-.column--small {
+.column--narrow {
     @include rem(column-gap, $space-half, webkit moz spec);
 }
 
