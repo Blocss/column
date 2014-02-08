@@ -1,4 +1,4 @@
-# Blocss Column – v0.0.1
+# Blocss Column – v1.0.0
 
 A [Blocss](https://github.com/Blocss/blocss/) component for css3 columns.
 
@@ -13,14 +13,15 @@ Read more about [Blocss](https://blocss.github.io/blocss).
 ## Available classes
 
 * `.column` - The core column class
+* `.column--X` - Column count modifier
+* `.column--wide` - Column modifier with a wider gap
+* `.column--narrow` - Column modifier with a narrow gap
 
 ## Usage
 
 ```html
-
+<p class="column  column--X  [colums--wide|column--small]">...</p>
 ```
-
-
 
 ## Browser support
 
