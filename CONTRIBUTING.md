@@ -1,4 +1,4 @@
-# Contributing to Blocss-arrange
+# Contributing to Blocss-column
 
 Please take a moment to review this document in order to make the contribution
 process easy and effective for everyone involved.
@@ -95,11 +95,11 @@ project:
 
    ```bash
    # Clone your fork of the repo into the current directory
-   git clone https://github.com/<your-username>/arrange
+   git clone https://github.com/<your-username>/column
    # Navigate to the newly cloned directory
-   cd arrange
+   cd column
    # Assign the original repo to a remote called "upstream"
-   git remote add upstream https://github.com/Blocss/arrange
+   git remote add upstream https://github.com/Blocss/column
    ```
 
 2. If you cloned a while ago, get the latest changes from upstream:
